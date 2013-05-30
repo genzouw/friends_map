@@ -1,0 +1,3 @@
+<Files ~ "^(\.ht.+|README.md|.+\.sql)$">
+    Deny from All
+</Files>
